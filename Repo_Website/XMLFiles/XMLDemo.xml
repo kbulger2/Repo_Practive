@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student>
+    <StudentID>20091000</StudentID>
+    <FirstName>Keyen</FirstName>
+    <LastName>Bulger</LastName>
+    <Average>100</Average>
+  </Student>
+  <Student>
+    <StudentID>200306809</StudentID>
+    <FirstName>Mike</FirstName>
+    <LastName>Smith</LastName>
+    <Average>25</Average>
+  </Student>
+  <Student>
+    <StudentID>100372606</StudentID>
+    <FirstName>Trevor</FirstName>
+    <LastName>Rosassen</LastName>
+    <Average>85</Average>
+  </Student>
+</Students>
