@@ -11,8 +11,4 @@ public partial class XMLFiles_Demo : System.Web.UI.Page
     {
 
     }
-    protected void XmlDataSource1_Transforming(object sender, EventArgs e)
-    {
-
-    }
 }

@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Demo.aspx.cs" Inherits="XMLFiles_Demo" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
-    <asp:GridView ID="GridView1" runat="server" OnSelectedIndexChanged="GridView1_SelectedIndexChanged" AutoGenerateColumns="False" DataSourceID="XmlDataSource1">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="XmlDataSource1">
         <Columns>
             <asp:BoundField DataField="StudentID" HeaderText="StudentID" SortExpression="StudentID" />
             <asp:BoundField DataField="FirstName" HeaderText="FirstName" SortExpression="FirstName" />
